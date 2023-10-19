@@ -1,5 +1,237 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "UIbSkw4yvec",
+            "name": "Kraftwerk mit 'Tanzmusik' 1973 im ZDF-aspekte-Studio [UIbSkw4yvec].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Kraftwerk mit 'Tanzmusik' 1973 im ZDF-aspekte-Studio [UIbSkw4yvec].mp4",
+            "size": 13.514163,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Kraftwerk mit 'Tanzmusik' 1973 im ZDF-aspekte-Studio [UIbSkw4yvec].mp4?raw=true"
+        },
+        {
+            "id": "HmVhIwa8GKs",
+            "name": "Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 3. Credo [HmVhIwa8GKs].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 3. Credo [HmVhIwa8GKs].mp4",
+            "size": 40.788529,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Liszt： Missa solemnis zur Einweihung der Basilika in Gran - 3. Credo [HmVhIwa8GKs].mp4?raw=true"
+        },
+        {
+            "id": "Zkx1vgl7RbU",
+            "name": "Bach - Gloria in excelsis Deo BWV 191 - Van Veldhoven ｜ Netherlands Bach Society [Zkx1vgl7RbU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Bach - Gloria in excelsis Deo BWV 191 - Van Veldhoven ｜ Netherlands Bach Society [Zkx1vgl7RbU].mp4",
+            "size": 62.574110999999995,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Bach - Gloria in excelsis Deo BWV 191 - Van Veldhoven ｜ Netherlands Bach Society [Zkx1vgl7RbU].mp4?raw=true"
+        },
+        {
+            "id": "ticfaW7Dbro",
+            "name": "STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini [ticfaW7Dbro].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini [ticfaW7Dbro].mp4",
+            "size": 85.804647,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/STUDIO 54 - 70s DISCO CLASSICS MIX 10 - by Francesco Giovannini [ticfaW7Dbro].mp4?raw=true"
+        },
+        {
+            "id": "Vkq5mOIUfSQ",
+            "name": "All I Can Say [Vkq5mOIUfSQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/All I Can Say [Vkq5mOIUfSQ].mp4",
+            "size": 21.064971,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/All I Can Say [Vkq5mOIUfSQ].mp4?raw=true"
+        },
+        {
+            "id": "raRLm-tk61k",
+            "name": "Mesié Julian (Remastered) [raRLm-tk61k].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Mesié Julian (Remastered) [raRLm-tk61k].mp4",
+            "size": 3.717806,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Mesié Julian (Remastered) [raRLm-tk61k].mp4?raw=true"
+        },
+        {
+            "id": "JU_38vHzmyo",
+            "name": "Saint-Saëns - Piano Concerto No. 2, Op. 22 (with score, HD) [JU_38vHzmyo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Saint-Saëns - Piano Concerto No. 2, Op. 22 (with score, HD) [JU_38vHzmyo].mp4",
+            "size": 46.97799,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Saint-Saëns - Piano Concerto No. 2, Op. 22 (with score, HD) [JU_38vHzmyo].mp4?raw=true"
+        },
+        {
+            "id": "ZAHgL5qtxTM",
+            "name": "SCHUBERT Notturno for Piano Trio in E-flat major (Op. 148 ⧸ D.897) Score [ZAHgL5qtxTM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/SCHUBERT Notturno for Piano Trio in E-flat major (Op. 148 ⧸ D.897) Score [ZAHgL5qtxTM].mp4",
+            "size": 30.914436,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/SCHUBERT Notturno for Piano Trio in E-flat major (Op. 148 ⧸ D.897) Score [ZAHgL5qtxTM].mp4?raw=true"
+        },
+        {
+            "id": "owtNYicEz4w",
+            "name": "Si me pudieras querer [owtNYicEz4w].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Si me pudieras querer [owtNYicEz4w].mp4",
+            "size": 4.418951,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Si me pudieras querer [owtNYicEz4w].mp4?raw=true"
+        },
+        {
+            "id": "gFxyXiUbIW0",
+            "name": "She Can't Love You (Radio Version) [gFxyXiUbIW0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/She Can't Love You (Radio Version) [gFxyXiUbIW0].mp4",
+            "size": 5.539635,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/She Can't Love You (Radio Version) [gFxyXiUbIW0].mp4?raw=true"
+        },
+        {
+            "id": "SVkzSdGYcg0",
+            "name": "Good Times [SVkzSdGYcg0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Good Times [SVkzSdGYcg0].mp4",
+            "size": 10.409146999999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Good Times [SVkzSdGYcg0].mp4?raw=true"
+        },
+        {
+            "id": "eUPPnJ_rMFw",
+            "name": "Esta Noche [eUPPnJ_rMFw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Esta Noche [eUPPnJ_rMFw].mp4",
+            "size": 5.425822999999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Esta Noche [eUPPnJ_rMFw].mp4?raw=true"
+        },
+        {
+            "id": "0JHptCgNRgc",
+            "name": "Mamí Me Gustó [0JHptCgNRgc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Mamí Me Gustó [0JHptCgNRgc].mp4",
+            "size": 10.217214,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Mamí Me Gustó [0JHptCgNRgc].mp4?raw=true"
+        },
+        {
+            "id": "a3ir9HC9vYg",
+            "name": "a-ha - The Sun Always Shines on T.V. (Official Video) [a3ir9HC9vYg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/a-ha - The Sun Always Shines on T.V. (Official Video) [a3ir9HC9vYg].mp4",
+            "size": 14.680957999999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/a-ha - The Sun Always Shines on T.V. (Official Video) [a3ir9HC9vYg].mp4?raw=true"
+        },
+        {
+            "id": "C0nzGkLNKK8",
+            "name": "Los Pericos - Rab a dab Stail (full album) [C0nzGkLNKK8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Los Pericos - Rab a dab Stail (full album) [C0nzGkLNKK8].mp4",
+            "size": 58.916692,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Los Pericos - Rab a dab Stail (full album) [C0nzGkLNKK8].mp4?raw=true"
+        },
+        {
+            "id": "r5U_HOc-GdY",
+            "name": "Paganini： 24 Caprices for Violin, Op. 1 - No. 3 in E minor [r5U_HOc-GdY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Paganini： 24 Caprices for Violin, Op. 1 - No. 3 in E minor [r5U_HOc-GdY].mp4",
+            "size": 4.11297,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Paganini： 24 Caprices for Violin, Op. 1 - No. 3 in E minor [r5U_HOc-GdY].mp4?raw=true"
+        },
+        {
+            "id": "vnjIB6CxAlM",
+            "name": "Fela Kuti-  The Greatest Hits [vnjIB6CxAlM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Fela Kuti-  The Greatest Hits [vnjIB6CxAlM].mp4",
+            "size": 56.299642,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Fela Kuti-  The Greatest Hits [vnjIB6CxAlM].mp4?raw=true"
+        },
+        {
+            "id": "39CK9rOT2QA",
+            "name": "No Me Platiques (Remastered) [39CK9rOT2QA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/No Me Platiques (Remastered) [39CK9rOT2QA].mp4",
+            "size": 3.7870009999999996,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/No Me Platiques (Remastered) [39CK9rOT2QA].mp4?raw=true"
+        },
+        {
+            "id": "2w1Q8ZkXZ1Q",
+            "name": "Aztec Camera - Somewhere In My Heart (Official Music Video) [2w1Q8ZkXZ1Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Aztec Camera - Somewhere In My Heart (Official Music Video) [2w1Q8ZkXZ1Q].mp4",
+            "size": 70.57988399999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Aztec Camera - Somewhere In My Heart (Official Music Video) [2w1Q8ZkXZ1Q].mp4?raw=true"
+        },
+        {
+            "id": "qLlo31phUeo",
+            "name": "Liszt： Piano Concerto No. 2 in A Major, S. 125 - IV. Allegro animato - Stretto (molto accelerando) [qLlo31phUeo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Liszt： Piano Concerto No. 2 in A Major, S. 125 - IV. Allegro animato - Stretto (molto accelerando) [qLlo31phUeo].mp4",
+            "size": 3.97342,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Liszt： Piano Concerto No. 2 in A Major, S. 125 - IV. Allegro animato - Stretto (molto accelerando) [qLlo31phUeo].mp4?raw=true"
+        },
+        {
+            "id": "eNkfx9747qU",
+            "name": "Adolphe Adam ： Le Diable à quatre, ballet-pantomime in two acts (1845) [eNkfx9747qU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Adolphe Adam ： Le Diable à quatre, ballet-pantomime in two acts (1845) [eNkfx9747qU].mp4",
+            "size": 40.142534999999995,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Adolphe Adam ： Le Diable à quatre, ballet-pantomime in two acts (1845) [eNkfx9747qU].mp4?raw=true"
+        },
+        {
+            "id": "ZXY4JdWQ0xo",
+            "name": "Top Hat, White Tie and Tails (From ＂Top Hat＂) [ZXY4JdWQ0xo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Top Hat, White Tie and Tails (From ＂Top Hat＂) [ZXY4JdWQ0xo].mp4",
+            "size": 9.024519,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Top Hat, White Tie and Tails (From ＂Top Hat＂) [ZXY4JdWQ0xo].mp4?raw=true"
+        },
+        {
+            "id": "EZkUZulBdMg",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： f. Ah signor, signor - Cos’è stato？ [EZkUZulBdMg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： f. Ah signor, signor - Cos’è stato？ [EZkUZulBdMg].mp4",
+            "size": 8.684331,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act II - No. 16, Finale： f. Ah signor, signor - Cos’è stato？ [EZkUZulBdMg].mp4?raw=true"
+        },
+        {
+            "id": "yfqz0twefHw",
+            "name": "Slap That Bass (From ＂Shall We Dance＂) [yfqz0twefHw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Slap That Bass (From ＂Shall We Dance＂) [yfqz0twefHw].mp4",
+            "size": 9.534229999999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Slap That Bass (From ＂Shall We Dance＂) [yfqz0twefHw].mp4?raw=true"
+        },
+        {
+            "id": "uyGwu9m0NrM",
+            "name": "Aquellas Pequeñas Cosas [uyGwu9m0NrM].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Aquellas Pequeñas Cosas [uyGwu9m0NrM].mp4",
+            "size": 5.085322,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Aquellas Pequeñas Cosas [uyGwu9m0NrM].mp4?raw=true"
+        },
+        {
+            "id": "ly2eHqy20p8",
+            "name": "Bruca Maniguá [ly2eHqy20p8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Bruca Maniguá [ly2eHqy20p8].mp4",
+            "size": 9.538145,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Bruca Maniguá [ly2eHqy20p8].mp4?raw=true"
+        },
+        {
+            "id": "0-m4q_TAbto",
+            "name": "Polska muzyka 2 poł. XVIII w. Jan Engel (？-1788) Symphony in D minor Polish Music of 18 c. [0-m4q_TAbto].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Polska muzyka 2 poł. XVIII w. Jan Engel (？-1788) Symphony in D minor Polish Music of 18 c. [0-m4q_TAbto].mp4",
+            "size": 46.400375,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Polska muzyka 2 poł. XVIII w. Jan Engel (？-1788) Symphony in D minor Polish Music of 18 c. [0-m4q_TAbto].mp4?raw=true"
+        },
+        {
+            "id": "U3-hRlnL6jQ",
+            "name": "Greta Van Fleet - Edge Of Darkness (Live in Toronto ⧸ 2018) [U3-hRlnL6jQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Greta Van Fleet - Edge Of Darkness (Live in Toronto ⧸ 2018) [U3-hRlnL6jQ].mp4",
+            "size": 60.261773999999996,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Greta Van Fleet - Edge Of Darkness (Live in Toronto ⧸ 2018) [U3-hRlnL6jQ].mp4?raw=true"
+        },
+        {
+            "id": "tkNh8-YE6Fk",
+            "name": "Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183⧸173dB (1773) [tkNh8-YE6Fk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183⧸173dB (1773) [tkNh8-YE6Fk].mp4",
+            "size": 65.097188,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Wolfgang Amadeus Mozart - Symphony No.25 in G minor, KV.183⧸173dB (1773) [tkNh8-YE6Fk].mp4?raw=true"
+        },
+        {
+            "id": "XxpokVwNabE",
+            "name": "30 Days [XxpokVwNabE].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/30 Days [XxpokVwNabE].mp4",
+            "size": 12.532936999999999,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/30 Days [XxpokVwNabE].mp4?raw=true"
+        },
+        {
+            "id": "5cLZBeQEqq8",
+            "name": "The Best of Gershwin [5cLZBeQEqq8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/The Best of Gershwin [5cLZBeQEqq8].mp4",
+            "size": 71.205167,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/The Best of Gershwin [5cLZBeQEqq8].mp4?raw=true"
+        },
+        {
+            "id": "LN95-acMumo",
+            "name": "[You'll Have To Swing It] Mr. Paganini [LN95-acMumo].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/[You'll Have To Swing It] Mr. Paganini [LN95-acMumo].mp4",
+            "size": 11.515469,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/[You'll Have To Swing It] Mr. Paganini [LN95-acMumo].mp4?raw=true"
+        },
+        {
+            "id": "6h03OKL4kaQ",
+            "name": "Blue Minor [6h03OKL4kaQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/t4/videos/Blue Minor [6h03OKL4kaQ].mp4",
+            "size": 6.4700809999999995,
+            "url": "https://github.com/circuitalmynds/music_t4/blob/main/videos/Blue Minor [6h03OKL4kaQ].mp4?raw=true"
+        }
+    ],
+    "total_size": 909.210063
 }
